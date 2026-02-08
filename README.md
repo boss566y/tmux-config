@@ -9,7 +9,8 @@ My tmux config which uses, tpm, tmux-sensible the dracula theme
 # Install
 ```
 mkdir ~/.config/tmux/
-cp tmux.conf ~/.config/tmux/
+cp tmux.conf ~/.config
+git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
 ```
 
 # Options for Sourcing Other Plugins:
