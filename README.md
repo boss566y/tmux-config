@@ -13,6 +13,8 @@ cp tmux.conf ~/.config
 git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
 ```
 
+In tmux use prefix+I to load the plugins
+
 # Options for Sourcing Other Plugins:
 ```
 set -g @plugin 'github_username/plugin_name'
