@@ -1,5 +1,5 @@
 # TMUX Config
-My tmux config which uses, tpm, tmux-sensible the dracula theme
+My tmux config which uses, tpm, tmux-sensible the tokyo night theme
 
 ## Changes from defaults
 - Windows and Panes are number from 1 instead of 0.
