@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-apt-get install bc coreutils gawk jq playerctl
+sudo apt-get install bc coreutils gawk jq playerctl
 
 mkdir -p ~/.config/tmux/
 cp tmux.conf ~/.config/tmux/tmux.conf
